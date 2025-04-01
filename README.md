@@ -9,7 +9,7 @@ To analyze the evolution of content delivery methods on these platforms.
 
 **Methodology:**
 Data Collection: Utilized YouTube API to extract video content, comments, and metadata from selected educational channels.
-Data Analysis: Employed techniques like sentiment analysis and topic modeling to interpret the data.
+Data Analysis: Employed techniques like **sentiment analysis** and **topic modeling** to interpret the data.
 Visualization: Created word clouds, bubble charts, and line graphs to depict findings clearly and engagingly.
 
 **Key Findings:**
